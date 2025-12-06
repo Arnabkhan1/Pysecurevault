@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+secure_vault.db
+
+# Node / React
+node_modules/
+dist/
+.DS_Store
+.vscode/
+package-lock.json # Optional: Tumi chail rakhte paro, but onek somoy bad dewa hoy
